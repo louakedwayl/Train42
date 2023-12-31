@@ -2,5 +2,7 @@
 2)ls // Pour lister un repetoire 
 3)Ne pas lister les fichiers cachées : ne pas utilisé l'option -a
 5)séparés pars des virgules : /utilisé -m 
-6) triés par date de créations : utilisé l'option -t
-7) de manière à ce que les répertoires soient suivis d'un caractère slash : p
+6) triés par date de créations : utilisé l'option -tU pour trier de la date de
+creation la plus plus récente.
+7) de manière à ce que les répertoires soient suivis d'un caractère slash : -p
+
