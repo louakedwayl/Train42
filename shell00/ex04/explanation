@@ -1,0 +1,6 @@
+1) Creer un fichier midLS dans le repertoire ex04/
+2)ls // Pour lister un repetoire 
+3)Ne pas lister les fichiers cachées : ne pas utilisé l'option -a
+5)séparés pars des virgules : /utilisé -m 
+6) triés par date de créations : utilisé l'option -t
+7) de manière à ce que les répertoires soient suivis d'un caractère slash : p
